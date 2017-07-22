@@ -35,3 +35,21 @@ Presentation must satisfy the following
 2. It must be 5 pages
 3. It must be hosted on github or Rpubs
 4. It must contained some embedded R code that gets run when slidifying the document
+
+# Application - Puerto Ricans in USA
+
+Puerto Ricans who were born in Puerto Rico are American citizens as if they were born in the states. At 10% of the Latino population in the United States, Puerto Ricans are the second-largest Latino group nationwide, after Mexican-Americans, and are 1.5% of the entire population of the United States.
+Although the 2010 Census counted the number of Puerto Ricans living in the United States at 4.6 million, estimates in 2012 show the Puerto Rican population to be over 5 million.
+
+The repository consists of three final files:
+* ui.R
+* server.R
+* README.md
+
+Data File: 
+* puertoricansinusa.csv
+
+The ui.R and server.R are the code for the shiny application:
+* The shiny application is deployed on ShinyApps.io server at: https://joanperez.shinyapps.io/dataproductsapp/
+* The RStudio presentation slides is published to RPubs at:
+* Git repository at:https://github.com/joanperez/dataproductsapp 
