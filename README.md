@@ -49,7 +49,9 @@ The repository consists of three final files:
 Data File: 
 * puertoricansinusa.csv
 
-The ui.R and server.R are the code for the shiny application:
+The ui.R and server.R are the code for the shiny application: https://joanperez.shinyapps.io/dataproductsapp/
+
+Application Details:
 * The shiny application is deployed on ShinyApps.io server at: https://joanperez.shinyapps.io/dataproductsapp/
-* The RStudio presentation slides is published to RPubs at:
-* Git repository at:https://github.com/joanperez/dataproductsapp 
+* The RStudio presentation slides is published to RPubs at: http://rpubs.com/joanperez/293128
+* Git repository at: https://github.com/joanperez/dataproductsapp 
