@@ -53,5 +53,5 @@ The ui.R and server.R are the code for the shiny application: https://joanperez.
 
 Application Details:
 * The shiny application is deployed on ShinyApps.io server at: https://joanperez.shinyapps.io/dataproductsapp/
-* The RStudio presentation slides is published to RPubs at: http://rpubs.com/joanperez/293128
+
 * Git repository at: https://github.com/arnav020298/dataproductsapp/edit/master/README.md 
